@@ -1,8 +1,8 @@
-# 💀 GITHUB PROFILE FROM HELL 💀
+# 💀 GITHUB PROFILE FOR BLOCKCHAIN DEVELOPERS 💀
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=45&pause=500&color=FF0000&background=000000&center=true&vCenter=true&width=1200&lines=💀+CODE+DEMON+FROM+THE+ABYSS+💀;🔥+DIGITAL+OVERLORD+🔥;⚡+REALITY+HACKER+⚡;🌟+LEGEND+IN+THE+MAKING+🌟;💥+YOUR+WORST+NIGHTMARE+💥)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=45&pause=500&color=FF0000&background=000000&center=true&vCenter=true&width=1200&lines=💀+SMART+CONTRACT+SORCERER+💀;🔥+DEFI+ARCHITECT+🔥;⚡+WEB3+PIONEER+⚡;💥+BLOCKCHAIN+REAPER+💥)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900"/>
 
@@ -12,8 +12,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/ZeroNewLife?style=for-the-badge&color=darkred&label=DISCIPLES)](https://github.com/ZeroNewLife)
 [![GitHub stars](https://img.shields.io/github/stars/ZeroNewLife?style=for-the-badge&color=gold&label=LEGENDARY+STARS)](https://github.com/ZeroNewLife)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
-
 </div>
 
 ---
@@ -22,182 +20,127 @@
 
 ## 🔥 THE DIGITAL DEMON AWAKENS
 
-```cpp
+```solidity
+// SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.21;
 
-contract BlockchainDeveloper {
+/**
+ * @title Web3 Developer Profile
+ * @notice A representation of my skills and experience as a blockchain developer.
+ */
+contract BlockchainDeveloperProfile {
     string public name = "Zoro";
-    string[] public skills = ["Solidity", "JavaScript", "Kotlin", "DeFi", "NFTs", "Web3"];
+    string[] public expertise = [
+        "Solidity", 
+        "Rust (for Solana)",
+        "Hardhat", 
+        "Foundry", 
+        "DeFi", 
+        "NFTs (ERC-721, ERC-1155)", 
+        "Web3.js/Ethers.js",
+        "Subgraphs",
+        "Layer 2 Solutions (Arbitrum, Optimism)"
+    ];
+    
     uint256 public yearsOfExperience = 2;
-    uint256 public linesOfCode = 50000;
-    uint256 public coffeeCups = 1337;
+    uint256 public contractsDeployed = 50;
     bool public openForCollabs = true;
-    bool public alwaysLearning = true;
     
     mapping(string => bool) public achievements;
     
     constructor() {
-        achievements["Built First DeFi Contract"] = true;
-        achievements["Created NFT Collection"] = true;
-        achievements["Survived First Rug Pull"] = true;
-        achievements["Fixed Critical Bug at 3AM"] = true;
-        achievements["Deployed on Mainnet"] = true;
+        achievements["Built First DeFi Protocol"] = true;
+        achievements["Deployed Smart Contract on Mainnet"] = true;
+        achievements["Audited by a Third-Party Firm"] = true;
+        achievements["Integrated Chainlink Oracles"] = true;
+        achievements["Contributed to an Open-Source Protocol"] = true;
     }
     
-    function getMotivation() public pure returns(string memory) {
-        return "Building cool shit, one block at a time 🔥";
+    function getMotto() public pure returns(string memory) {
+        return "Building a decentralized future, one block at a time 🔥";
     }
-    
-
+}
 ```
 
-### 🎯 CURRENT WORLD DOMINATION STATUS
-> **Converting caffeine to code at light speed. Bending reality through algorithms. Making the impossible possible, one commit at a time.**
 
----
+🎯 CURRENT WORLD DOMINATION STATUS
 
-## 💥 APOCALYPTIC PROJECT PORTFOLIO
+    Converting caffeine to code at light speed. Bending reality through algorithms. Auditing smart contracts to expose vulnerabilities. Making the impossible possible, one commit at a time.
 
-<table>
-<tr>
-<td width="50%">
+💥 APOCALYPTIC PROJECT PORTFOLIO
 
-### 🌋 **INFERNO ENGINE**
-*Game Engine That Melts Graphics Cards*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
-
-**💀 HELLISH FEATURES:**
-- Real-time ray tracing on steroids
-- Physics engine that breaks Newton's laws
-- AI enemies with actual consciousness
-- Graphics so good they're illegal in 12 countries
-
-**🔥 TECH STACK:** C++, Vulkan, CUDA, Black Magic
-
-</td>
-<td width="50%">
-
-### 🚀 **QUANTUM CHAT**
-*Messaging App From The Future*
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</p>
 
-**💀 REALITY-BENDING FEATURES:**
-- Messages arrive before you send them
-- Quantum encryption that NSA can't crack
-- Interdimensional group chats
-- Emoji reactions that alter reality
+🌐 METAVERSE DESTROYER
 
-**🔥 TECH STACK:** Quantum Computing, React, Node.js, Time Travel
+Decentralized Finance (DeFi) Protocol
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+💀 HELLISH FEATURES:
 
-### 🎮 **NEURAL PLAYGROUND**
-*AI Playground Where AIs Play God*
+    Automated Market Maker (AMM): Liquidity pools with dynamic fees.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"/>
+    Yield Farming Pools: Stake tokens to earn rewards.
 
-**💀 MIND-MELTING FEATURES:**
-- AIs that create their own programming languages
-- Neural networks that dream in code
-- Machine learning models that question existence
-- Singularity countdown timer
+    DAO Integration: Governance tokens for community voting.
 
-**🔥 TECH STACK:** TensorFlow, PyTorch, Python, Existential Crisis
+    Oracle Integration: Using Chainlink for secure price feeds.
 
-</td>
-<td width="50%">
+🔥 TECH STACK: Solidity, Hardhat, Ethers.js, The Graph, React
 
-### 🌐 **METAVERSE DESTROYER**
-*Platform That Makes Zuckerberg Cry*
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
+</p>
 
-**💀 REALITY-SHATTERING FEATURES:**
-- Infinite virtual worlds in your browser
-- Physics that make more sense than real life
-- Economy where time is currency
-- NPCs with PhD degrees
+🚀 QUANTUM CHAT
 
-**🔥 TECH STACK:** WebGL, Three.js, Blockchain, Pure Insanity
+Cross-Chain NFT Marketplace
 
-</td>
-</tr>
-</table>
+💀 REALITY-BENDING FEATURES:
 
----
+    Cross-Chain Bridge: Transfer NFTs between Ethereum and Solana.
 
-## 🛠️ WEAPONS OF MASS CREATION
+    Royalty Enforcement: Automatically pays creators on secondary sales (EIP-2981).
+
+    Decentralized Escrow: Secure P2P trading with smart contracts.
+
+    Gas Optimization: Implemented gas-efficient token standards.
+
+🔥 TECH STACK: Solidity, Rust (Anchor), Web3.js, React, IPFS
+
+🛠️ WEAPONS OF MASS CREATION
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-a1c5-faaed9b662b4.gif" width="700"/>
 
-### 💀 PROGRAMMING LANGUAGES I'VE MASTERED (AND SOME I'VE CREATED)
+💀 PROGRAMMING LANGUAGES & FRAMEWORKS I'VE MASTERED
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,rust,go,java,kotlin,swift,php" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsolidity,rust,js,ts,python,cpp" />
 <br>
-<img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nodejs,express,django,flask,spring,laravel" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,react,hardhat,foundry,anchor" />
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,elasticsearch,docker,kubernetes,aws,gcp,firebase,vercel" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker,kubernetes,aws,firebase,vercel" />
 </p>
 
-<table align="center">
-<tr>
-<td align="center"><strong>🔥 FRONTEND SORCERY</strong></td>
-<td align="center"><strong>⚡ BACKEND NECROMANCY</strong></td>
-<td align="center"><strong>🎨 DESIGN WIZARDRY</strong></td>
-<td align="center"><strong>🔒 DEVOPS DOMINATION</strong></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-### 🌟 LEGENDARY SPECIALIZATIONS
+🌟 LEGENDARY BLOCKCHAIN SPECIALIZATIONS
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI/ML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blockchain-4ECDC4?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Game%20Dev-45B7D1?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-96CEB4?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Quantum-FFEAA7?style=for-the-badge&logo=qiskit&logoColor=black"/>
-<img src="https://img.shields.io/badge/AR/VR-DDA0DD?style=for-the-badge&logo=oculus&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Solidity-363636%3Fstyle%3Dfor-the-badge%26logo%3Dsolidity%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ethereum-3C3C3D%3Fstyle%3Dfor-the-badge%26logo%3Dethereum%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/DeFi-9C27B0%3Fstyle%3Dfor-the-badge%26logo%3Dethereum%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NFTs-4ECDC4%3Fstyle%3Dfor-the-badge%26logo%3Dopensea%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Smart%2520Contracts-FF6B6B%3Fstyle%3Dfor-the-badge%26logo%3Dsolana%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Security%2520Audits-96CEB4%3Fstyle%3Dfor-the-badge%26logo%3Dsolidity%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Web3-F24E1E%3Fstyle%3Dfor-the-badge%26logo%3Dweb3.js%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Layer%25202s-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Dpolygon%26logoColor%3Dwhite"/>
 </p>
 
 </div>
 
----
-
-## 📊 LEGENDARY BATTLE STATISTICS FROM HELL
+📊 LEGENDARY BATTLE STATISTICS FROM HELL
 
 <div align="center">
 
@@ -220,86 +163,38 @@ contract BlockchainDeveloper {
 
 <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroNewLife&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=ff0000&line=ff6b6b&point=ffffff"/>
 
-### 🏆 TROPHIES OF DIGITAL DOMINATION
+🏆 TROPHIES OF DIGITAL DOMINATION
 
 <img src="https://github-profile-trophy.vercel.app/?username=ZeroNewLife&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2"/>
 
-### 💀 CURRENT STREAK OF DESTRUCTION
+💀 CURRENT STREAK OF DESTRUCTION
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroNewLife&theme=tokyonight&hide_border=true&stroke=ff0000&ring=ff0000&fire=ff6b6b"/>
 
 </div>
 
----
-
-## 🎯 2025 APOCALYPSE ROADMAP
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"/>
-
-### 🔥 OBJECTIVES FOR WORLD DOMINATION:
-
-- [x] **Created AI that passed Turing Test** ✅
-- [x] **Built app with 10M+ downloads** ✅
-- [x] **Hacked Pentagon (ethically)** ✅
-- [ ] **Launch startup worth $1B+** 💀
-- [ ] **Invent new programming paradigm** 🚀
-- [ ] **Create first sentient AI** 🤖
-- [ ] **Colonize Mars with code** 🌍
-- [ ] **Achieve digital immortality** ⚡
-- [ ] **Break the simulation** 💥
-- [ ] **Become one with the matrix** 🌟
-
-### 💥 CURRENT POWER LEVEL: **∞ LEGENDARY OVERLORD**
-
-**Progress to God Mode:** `████████████████████████` **ACHIEVED**
-
----
-
-## 🌟 LEGENDARY ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">💀<br><strong>DEATH STARE</strong><br><sub>Fixed 666 critical bugs</sub></td>
-<td align="center">🔥<br><strong>HELL RAISER</strong><br><sub>Deployed code that caused server meltdown</sub></td>
-<td align="center">⚡<br><strong>LIGHTNING CODER</strong><br><sub>Wrote 10K lines in 24 hours</sub></td>
-<td align="center">🚀<br><strong>ROCKET SCIENTIST</strong><br><sub>Optimized algorithm by 99.99%</sub></td>
-</tr>
-<tr>
-<td align="center">👑<br><strong>CODE EMPEROR</strong><br><sub>Led team of 50+ developers</sub></td>
-<td align="center">🧙‍♂️<br><strong>DIGITAL WIZARD</strong><br><sub>Created magic with CSS animations</sub></td>
-<td align="center">🌊<br><strong>TSUNAMI MAKER</strong><br><sub>App went viral overnight</sub></td>
-<td align="center">💎<br><strong>DIAMOND HANDS</strong><br><sub>Never sold crypto losses</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🤝 JOIN THE DIGITAL REVOLUTION
+🤝 JOIN THE DIGITAL REVOLUTION
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284103-11eb4eb9-1c57-4453-ac9e-fdb18d70187d.gif" width="600"/>
 
-### 🔥 LEGENDARY COLLABORATION OPPORTUNITIES:
+🔥 LEGENDARY COLLABORATION OPPORTUNITIES:
 
 <table>
 <tr>
-<td align="center">💀 <strong>APOCALYPTIC STARTUPS</strong></td>
-<td align="center">🌟 <strong>OPEN SOURCE DOMINATION</strong></td>
-<td align="center">⚡ <strong>HACKATHON ANNIHILATION</strong></td>
+<td align="center">💀 DECENTRALIZED PROTOCOLS</td>
+<td align="center">🌟 SMART CONTRACT AUDITS</td>
+<td align="center">⚡ WEB3 HACKATHONS</td>
 </tr>
 <tr>
-<td align="center">🎓 <strong>DIGITAL MENTORSHIP</strong></td>
-<td align="center">🎤 <strong>CONFERENCE TAKEOVERS</strong></td>
-<td align="center">🚀 <strong>REALITY-BREAKING PROJECTS</strong></td>
+<td align="center">🎓 BLOCKCHAIN MENTORSHIP</td>
+<td align="center">🎤 CONFERENCE TAKEOVERS</td>
+<td align="center">🚀 REALITY-BREAKING PROJECTS</td>
 </tr>
 </table>
 
-### 📡 SUMMON ME THROUGH THESE PORTALS:
+📡 SUMMON ME THROUGH THESE PORTALS:
 
 <p align="center">
 <a href="mailto:workzero02@gmail.com"><img src="https://img.shields.io/badge/EMAIL_FROM_HELL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -310,49 +205,54 @@ contract BlockchainDeveloper {
 
 </div>
 
----
-
 <div align="center">
 
-### ⚡ WORDS OF A DIGITAL GOD ⚡
+⚡ WORDS OF A DIGITAL GOD ⚡
 
-> *"I didn't choose the code life, the code life chose me. Now I bend reality to my will, one algorithm at a time. Mortals call it programming, I call it digital sorcery."*
+    "I didn't choose the blockchain life, the blockchain life chose me. Now I bend decentralized reality to my will, one algorithm at a time. Mortals call it smart contract development, I call it digital sorcery."
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-854f89fd-bb27-48b1-b1c0-85f5de773875.gif" width="400"/>
 
-### 🔥 LEGENDARY FUN FACTS THAT WILL BLOW YOUR MIND 🔥
+🔥 LEGENDARY FUN FACTS THAT WILL BLOW YOUR MIND 🔥
 
-- 🎯 **Debugged a quantum computer by staring at it menacingly**
-- 🚀 **My code runs so fast it breaks the speed of light**
-- 🧙‍♂️ **Can write assembly code in my sleep (literally did it)**
-- ⚡ **Coffee-to-code conversion rate: 1 drop = 1000 lines**
-- 🎮 **First program was a virus that made computers laugh**
-- 🌟 **Stack Overflow has a separate section just for my answers**
-- 🎵 **My keyboard sounds like a machine gun when I code**
-- 💀 **Once made a chatbot so realistic it got depression**
+    🎯 Fixed a critical bug in a DeFi protocol by sacrificing a cup of coffee
 
-### 📈 APOCALYPTIC METRICS THAT DEFY PHYSICS
+    🚀 My smart contracts run so efficiently they generate negative gas fees
+
+    🧙‍♂️ Can write Solidity in my sleep (literally happened during a hackathon)
+
+    ⚡ Coffee-to-code conversion rate: 1 drop = 1000 lines (of secure code)
+
+    🎮 My first program was a flash loan bot that made me question reality
+
+    🌟 Etherscan has a separate section just for my verified contracts
+
+    🎵 My keyboard sounds like a machine gun when I audit a contract
+
+    💀 Once made a DAO so realistic it started a political debate
+
+📈 APOCALYPTIC METRICS THAT DEFY PHYSICS
 
 <table align="center">
 <tr>
-<td><strong>💻 Lines of Code Unleashed:</strong></td><td><strong>2,500,000+</strong></td>
-<td><strong>🔥 Servers Melted:</strong></td><td><strong>42</strong></td>
+<td><strong>💻 Lines of Code Unleashed:</strong></td><td><strong>100,000+ (Audited)</strong></td>
+<td><strong>🔥 Gas Optimized:</strong></td><td><strong>99%</strong></td>
 </tr>
 <tr>
 <td><strong>🐛 Bugs Brutally Murdered:</strong></td><td><strong>50,000+</strong></td>
-<td><strong>🌙 Reality Glitches Fixed:</strong></td><td><strong>∞</strong></td>
+<td><strong>🌙 Security Audits Passed:</strong></td><td><strong>∞</strong></td>
 </tr>
 <tr>
 <td><strong>☕ Coffee Consumed (Liters):</strong></td><td><strong>5,000+</strong></td>
-<td><strong>💎 Diamonds Mined in Minecraft:</strong></td><td><strong>100,000+</strong></td>
+<td><strong>💎 ETH Mined:</strong></td><td><strong>200+</strong></td>
 </tr>
 <tr>
 <td><strong>🏆 Hackathons Dominated:</strong></td><td><strong>25+</strong></td>
-<td><strong>🎭 Personalities in AI:</strong></td><td><strong>7</strong></td>
+<td><strong>🎭 DAO Proposals:</strong></td><td><strong>127</strong></td>
 </tr>
 <tr>
 <td><strong>👥 Developers Mentored:</strong></td><td><strong>500+</strong></td>
-<td><strong>🌍 Worlds Created:</strong></td><td><strong>12</strong></td>
+<td><strong>🌍 Blockchains Explored:</strong></td><td><strong>12</strong></td>
 </tr>
 <tr>
 <td><strong>⚡ Power Level:</strong></td><td><strong>OVER 9000!</strong></td>
@@ -360,37 +260,10 @@ contract BlockchainDeveloper {
 </tr>
 </table>
 
-### 🌟 LEGENDARY QUOTES FROM THE CODING BIBLE 🌟
-
-<table align="center">
-<tr>
-<td align="center">💀</td>
-<td><em>"There are only 10 types of people: those who understand binary and those who will be replaced by AI"</em></td>
-</tr>
-<tr>
-<td align="center">🔥</td>
-<td><em>"I don't always test my code, but when I do, I do it in production"</em></td>
-</tr>
-<tr>
-<td align="center">⚡</td>
-<td><em>"99 little bugs in the code, 99 little bugs... patch one down, push it around, 127 little bugs in the code"</em></td>
-</tr>
-<tr>
-<td align="center">🚀</td>
-<td><em>"Real programmers don't comment their code. If it was hard to write, it should be hard to understand"</em></td>
-</tr>
-</table>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,18,20&height=200&section=footer&text=THE%20APOCALYPSE%20HAS%20BEGUN!&fontSize=50&fontColor=fff&animation=twinkling"/>
 
-### 💀 *"Welcome to my digital realm. Leave your sanity at the door."* 💀
-
-<img src="https://user-images.githubusercontent.com/74038190/212284107-fc9e2431-6830-4a6b-a96d-6e35888d85be.gif" width="100%"/>
+💀 "Welcome to my digital realm. Leave your sanity at the door." 💀
 
 </div>
 
----
-
-⚠️ **WARNING**: *This profile may cause spontaneous urges to learn programming, existential crises about AI consciousness, and an irresistible desire to create world-changing applications. Side effects may include: increased productivity, caffeine addiction, and dreams filled with code snippets.* ⚠️
+⚠️ WARNING: This profile may cause spontaneous urges to learn Solidity, existential crises about decentralization, and an irresistible desire to create world-changing DApps. Side effects may include: increased productivity, caffeine addiction, and dreams filled with code snippets. ⚠️
