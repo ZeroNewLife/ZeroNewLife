@@ -1,4 +1,4 @@
-# Hi, I'm Zoro 👋
+# Hi, I'm Zero 👋
 
 <div align="center">
 
